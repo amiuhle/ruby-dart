@@ -1,0 +1,1 @@
+require 'dart_js'
